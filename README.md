@@ -5,7 +5,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhinit21" alt="abhinit21" /></a> </p> -->
 
-- 🌱 I’m currently learning **Data Structures & Algorithms**
+- 🌱 I’m currently learning **Machine Learning and Deep Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/abhinit21](https://github.com/abhinit21)
 
