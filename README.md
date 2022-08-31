@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://localhost:404](https://localhost:404)
 
-- 💬 Ask me about **ML, Python, React, Problem Solving**
+- 💬 Ask me about **ML, Python, Problem Solving**
 
 - 📫 How to reach me **surak504@gmail.com**
 
