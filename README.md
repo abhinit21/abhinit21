@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/abhinit21](https://github.com/abhinit21)
 
-- 📝 I regularly write articles on [https://localhost:404](https://localhost:4004)
+- 📝 I want to write articles on [https://localhost:4004](https://localhost:4004)
 
 - 💬 Ask me about **ML, Python, Problem Solving**
 
