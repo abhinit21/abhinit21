@@ -48,7 +48,7 @@
 <div align="center">
   <img 
     align="left" alt="abhinit21"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=abhinit21&show_icons=true&locale=en&layout=compact" />
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=abhinit21&show_icons=true&locale=en&layout=compact&theme=github_dark&disable_animations=false" />
   <img 
     align="center" alt="abhinit21"
     src="https://github-readme-stats.vercel.app/api?username=abhinit21&show_icons=true&locale=en" />
