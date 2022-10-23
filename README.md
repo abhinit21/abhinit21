@@ -80,6 +80,8 @@
     src="https://github-readme-stats.vercel.app/api?username=abhinit21&show_icons=true&locale=entheme=github_dark&disable_animations=false" />
 </div>
 
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+
 ###
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhinit21&show_icons=true&locale=en" alt="abhinit21" /></p>
