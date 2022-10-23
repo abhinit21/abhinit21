@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi <img src="https://raw.githubusercontent.com/abhinit21/abhinit21/main/wave.gif" /> I'm Sura Karthikeya
+  Hi <img width="30" height="30" src="https://raw.githubusercontent.com/abhinit21/abhinit21/main/wave.gif" /> I'm Sura Karthikeya
 </h1>
 <h3 align="center">
   AI and ML enthusiast | India
