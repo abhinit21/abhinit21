@@ -1,5 +1,9 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />, I'm Sura Karthikeya</h1>
-<h3 align="center">AI and ML enthusiast | India</h3>
+<h1 align="center">
+  Hi <img src="https://raw.githubusercontent.com/abhinit21/abhinit21/main/wave.gif" /> I'm Sura Karthikeya
+</h1>
+<h3 align="center">
+  AI and ML enthusiast | India
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinit21&label=Profile%20views&color=0e75b6&style=flat" alt="abhinit21" /> </p>
 
