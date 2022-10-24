@@ -59,13 +59,13 @@
 </h1>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhinit21&repo=abhinit21" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhinit21&repo=abhinit21" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhinit21&repo=abhinit21&theme=onedark" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhinit21&repo=abhinit21&theme=onedark" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhinit21&repo=abhinit21" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhinit21&repo=abhinit21" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhinit21&repo=abhinit21&theme=onedark" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhinit21&repo=abhinit21&theme=onedark" />
 </div>
 
 ###
