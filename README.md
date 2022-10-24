@@ -96,12 +96,6 @@
 <div align="center">
   <img
     alt="abhinit21"
-    src="https://github-readme-stats.vercel.app/api?username=abhinit21&theme=onedark&hide_border=false&include_all_commits=true&count_private=true" />
- </div>
-
-<div align="center">
-  <img
-    alt="abhinit21"
     src="https://github-readme-streak-stats.herokuapp.com/?user=abhinit21&theme=onedark&hide_border=false" />
 </div>
 
