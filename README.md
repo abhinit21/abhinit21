@@ -106,11 +106,8 @@
 </h1>
 
 <div align="left">
-  <img src="https://dcbadge.vercel.app/api/shield/757504251617345626?theme=discord-inverted" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="behance logo"  />
-  <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
+  <img src="https://dcbadge.vercel.app/api/shield/757504251617345626?theme=discord-inverted" height="35" alt="discord logo" />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
 </div>
 
 ###
@@ -119,19 +116,17 @@
     . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 </h1>
 
-<br>
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/abhinit21/abhinit21/blob/output/snake.svg" alt="Snake animation" />
 </div>
 
-<div align="center">
+<!-- <div align="center">
     <img
       alt="abhinit21"
       src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abhinit21&theme=monokai&utcOffset=5" />
     <img 
        alt="Snake animation"
-       src="https://metrics.lecoq.io/abhinit21?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&stars=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&stars=false&stars.limit=4&config.timezone=Asia%2FCalcutta" />
+       src="https://metrics.lecoq.io/abhinit21?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&stars=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&stars=false&stars.limit=4&config.timezone=Asia%2FCalcutta" /> -->
 </div>
 
 # EXTRA
