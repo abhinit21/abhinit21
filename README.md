@@ -64,10 +64,15 @@
     🌟 Pinned Repos
 </h1>
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=abhinit21&repo=abhinit21" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=abhinit21&repo=abhinit21" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=abhinit21&repo=abhinit21" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=abhinit21&repo=abhinit21" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhinit21&repo=abhinit21" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhinit21&repo=abhinit21" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhinit21&repo=abhinit21" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhinit21&repo=abhinit21" />
+</div>
 
 ###
 
