@@ -1,23 +1,60 @@
+<!-- Bootstrap Link -->
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+
+<style>
+  body {
+    background-color: #0000;
+    color: #ffff;
+  }
+  .crop {
+    /* width: 1000px;
+    height: 300px; */
+    object-fit: contain;
+    object-position: -100% 0;
+  }
+</style>
+
 ###
 
-<div>
-  <a href="https://stackoverflow.com/users/13334778/abhinit21" >
-    <img src="https://github-readme-stackoverflow.vercel.app/?userID=13334778&theme=dark" />
-  </a>
-  <a href="https://leetcode.com/abhinit21/" >
-    <img src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=abhinit21&theme=dark" height="200" />
-  </a>
-  <h1>
-    Hi <img src="https://raw.githubusercontent.com/abhinit21/abhinit21/main/wave.gif" width="30" height="30" /> I'm Sura Karthikeya
-  </h1>
+<div class="d-flex justify-content-between mb-4">
+  <div>
+    <h1 class="rounded-3 bg-dark p-4">
+      Hi <img src="https://raw.githubusercontent.com/abhinit21/abhinit21/main/wave.gif" width="30" height="30" /> I'm Sura Karthikeya
+    </h1>
+    <div class="mt-4">
+      <img height="40" src="https://profile-counter.glitch.me/abhinit21/count.svg?"  />
+    </div>
+    <div class="pe-5 pt-4">
+      <a href="https://leetcode.com/abhinit21/" >
+        <img class="shadow-lg rounded-3" height="200" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=abhinit21&theme=dark" />
+      </a>
+    </div>
+  </div>
+  <div class="rounded me-5 shadow-lg">
+    <a href="https://stackoverflow.com/users/13334778/abhinit21" >
+      <img width="250" src="https://github-readme-stackoverflow.vercel.app/?userID=13334778&theme=dark" />
+    </a>
+  </div>
+</div>
+
+
+
+<div align="center">
+
+</div>
+
+###
+
+<h1 align="left">
+    🏆 Trophies
+</h1>
+
+<div class="my-4 d-flex justify-content-center border crop">
+  <img src="https://github-profile-trophy.vercel.app/?username=abhinit21&theme=onedark&no-frame=true&no-bg=false&margin-w=4" />
 </div>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/abhinit21/count.svg?"  />
-</div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&background=000000&center=true&vCenter=true&width=420&lines=Data+Science;Machine+Learning" />
 </div>
 
 ###
@@ -66,16 +103,16 @@
 <div align="center">
   <img
     alt="abhinit21" height="195"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=abhinit21&layout=compact&theme=github_dark&disable_animations=false" />
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinit21&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
   <img
     alt="abhinit21"
-    src="https://github-readme-stats.vercel.app/api?username=abhinit21&show_icons=true&locale=en" />
+    src="https://github-readme-stats.vercel.app/api?username=abhinit21&theme=onedark&hide_border=false&include_all_commits=true&count_private=true" />
 </div>
 
 <div align="center">
   <img
     alt="abhinit21"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=abhinit21&" />
+    src="https://github-readme-streak-stats.herokuapp.com/?user=abhinit21&theme=onedark&hide_border=false" />
 </div>
 
 <div align="center">
