@@ -34,7 +34,8 @@
 </h1>
 
 <div class="my-4 d-flex justify-content-center border crop">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhinit21&theme=onedark&no-frame=true&no-bg=false&margin-w=4" />
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=abhinit21&theme=onedark&no-frame=true&no-bg=false&column=7&margin-w=15" />
 </div>
 
 <div align="center">
@@ -95,14 +96,8 @@
 
 <div align="center">
   <img
-    alt="abhinit21"
+    alt="abhinit21" height="165em"
     src="https://github-readme-streak-stats.herokuapp.com/?user=abhinit21&theme=onedark&hide_border=false" />
-</div>
-
-<div align="center">
-    <img
-      alt="abhinit21" height="100"
-      src="#" />
 </div>
 
 ###
@@ -132,11 +127,16 @@
 </div>
 
 <div align="center">
-    <img src="https://metrics.lecoq.io/abhinit21?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&stars=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&stars=false&stars.limit=4&config.timezone=Asia%2FCalcutta" alt="Snake animation" />
+    <img
+      alt="abhinit21"
+      src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abhinit21&theme=monokai&utcOffset=5" />
+    <img 
+       alt="Snake animation"
+       src="https://metrics.lecoq.io/abhinit21?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&stars=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&stars=false&stars.limit=4&config.timezone=Asia%2FCalcutta" />
 </div>
 
 # EXTRA
-
+<!-- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/_karthikeya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_karthikeya" height="30" width="40" /></a>
@@ -161,3 +161,4 @@
 [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/monokai/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/monokai/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=abhinit21&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
+ -->
