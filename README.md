@@ -1,25 +1,22 @@
-<!-- Bootstrap Link -->
-<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
-
 ###
 
-<div class="d-flex justify-content-between mb-4">
+<div>
   <div>
-    <h1 class="rounded-3 bg-dark p-4">
+    <h1>
       Hi <img src="https://raw.githubusercontent.com/abhinit21/abhinit21/main/wave.gif" width="30" height="30" /> I'm Sura Karthikeya
     </h1>
-    <div class="mt-4">
-      <img height="40" src="https://profile-counter.glitch.me/abhinit21/count.svg?"  />
-    </div>
-    <div class="pe-5 pt-4">
-      <a href="https://leetcode.com/abhinit21/" >
-        <img class="shadow-lg rounded-3" height="200" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=abhinit21&theme=dark" />
-      </a>
+    <div>
+      <img height="30" src="https://profile-counter.glitch.me/abhinit21/count.svg?"  />
     </div>
   </div>
-  <div class="rounded shadow-lg">
+  <div>
+    <div>
+      <a href="https://leetcode.com/abhinit21/" >
+        <img height="150" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=abhinit21&theme=dark" />
+      </a>
+    </div>
     <a href="https://stackoverflow.com/users/13334778/abhinit21" >
-      <img width="250" src="https://github-readme-stackoverflow.vercel.app/?userID=13334778&theme=dark" />
+      <img width="150" src="https://github-readme-stackoverflow.vercel.app/?userID=13334778&theme=dark" />
     </a>
   </div>
 </div>
