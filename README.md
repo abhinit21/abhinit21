@@ -86,10 +86,10 @@
 
 <div align="center">
   <img
-    alt="abhinit21" height="195"
+    alt="abhinit21" height="180em"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinit21&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
   <img
-    alt="abhinit21"
+    alt="abhinit21" height="180em"
     src="https://github-readme-stats.vercel.app/api?username=abhinit21&theme=onedark&hide_border=false&include_all_commits=true&count_private=true" />
 </div>
 
