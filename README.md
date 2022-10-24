@@ -122,7 +122,7 @@
 <br>
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/abhinit21/abhinit21/blob/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/abhinit21/abhinit21/blob/output/snake.svg" alt="Snake animation" />
 </div>
 
 <div align="center">
