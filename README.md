@@ -121,6 +121,9 @@
   <a href="#">
     <img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white" height="35" />
   </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="35" />
+  </a>
 </div>
 
 <div align="center">
@@ -160,6 +163,12 @@
   </a>
   <a href="#">
     <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" height="35" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height="35" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" height="35" />
   </a>
 </div>
 
