@@ -135,19 +135,19 @@
 </h1>
 
 <div align="center">
-  <a href="#">
+  <a href="https://stackoverflow.com/users/13334778/abhinit21">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" height="35" />
   </a>
-  <a href="#">
+  <a href="https://www.kaggle.com/surakarthikeya">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" height="35" />
   </a>
-  <a href="#">
+  <a href="https://www.hackerrank.com/abhinit21">
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" height="35" />
   </a>
-  <a href="#">
+  <a href="https://www.codechef.com/users/abhinit21">
     <img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white" height="35" />
   </a>
-   <a href="#">
+   <a href="">
     <img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" height="35" />
   </a>
   <a href="#">
@@ -156,7 +156,7 @@
   <a href="#">
     <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" height="35" />
   </a>
-  <a href="#">
+  <a href="https://www.instagram.com/surakarthikeya/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" />
   </a>
   <a href="#">
@@ -165,7 +165,7 @@
   <a href="#">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height="35" />
   </a>
-  <a href="#">
+  <a href="https://auth.geeksforgeeks.org/user/abhinit21/">
     <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" height="35" />
   </a>
 </div>
