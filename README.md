@@ -1,8 +1,8 @@
 ###
 
-<table>
+<table align="center">
   <tr>
-    <td>
+    <td align="center">
       <h1>
         Hi <img src="https://raw.githubusercontent.com/abhinit21/abhinit21/main/wave.gif" width="30" height="30" /> I'm Sura Karthikeya
       </h1>
