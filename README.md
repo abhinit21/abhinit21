@@ -106,13 +106,11 @@
 </h1>
 
 <div align="center">
-  <a href="#">
-    <img src="https://dcbadge.vercel.app/api/shield/757504251617345626?theme=discord-inverted" height="35" />
-  </a>
-  <a href="#">
+  <img src="https://dcbadge.vercel.app/api/shield/757504251617345626?theme=discord-inverted" height="35" />
+  <a href="https://www.linkedin.com/in/karthikeya-sura-631758191/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
   </a>
-  <a href="#">
+  <a href="https://twitter.com/_Karthikeya">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="35" />
   </a>
   <a href="#">
@@ -121,7 +119,7 @@
   <a href="#">
     <img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white" height="35" />
   </a>
-  <a href="#">
+  <a href="https://t.me/abhinit21">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="35" />
   </a>
 </div>
