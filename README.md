@@ -27,13 +27,8 @@
     🏆 Trophies
 </h1>
 
-<div class="my-4 d-flex justify-content-center border crop">
-  
+<div>
   <img src="https://github-profile-trophy.vercel.app/?username=abhinit21&theme=onedark&no-frame=true&no-bg=false&column=7&margin-w=15" />
-</div>
-
-<div align="center">
-
 </div>
 
 ###
