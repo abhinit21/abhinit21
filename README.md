@@ -50,7 +50,7 @@
 
 - 📄 Know about my experiences [https://localhost:404](https://localhost:404) _under_progress_
 
-- ⚡ Fun fact **I'm 10 on pH scale**
+- ⚡ Fun fact **I'm 10 on pH scale** cuz I'm basic
 
 ###
 
