@@ -4,7 +4,7 @@
   <tr>
     <td align="center">
       <h1>
-        Hi <img src="https://raw.githubusercontent.com/abhinit21/abhinit21/main/wave.gif" width="30" height="30" /> I'm Sura Karthikeya
+        Hi <img src="https://raw.githubusercontent.com/abhinit21/abhinit21/main/emojis/wave.gif" width="30" height="30" /> I'm Sura Karthikeya
       </h1>
       <table>
         <tr align="center"><td><img height="30" src="https://profile-counter.glitch.me/abhinit21/count.svg?" /></td></tr>
