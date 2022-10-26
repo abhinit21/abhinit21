@@ -38,17 +38,17 @@
 
 ###
 
-- 🌱 I’m currently learning **Machine Learning and Deep Learning**
+- 🌱 I’m currently learning **Hugging Face and AutoML**
 
 - 👨‍💻 All of my projects are available at [https://github.com/abhinit21](https://github.com/abhinit21)
 
-- 📝 I want to write articles on [https://localhost:4004](https://localhost:4004)
+- 📝 I write articles on [https://localhost:404](https://localhost:404) _under_progress_
 
 - 💬 Ask me about **ML, Python, Problem Solving**
 
 - 📫 How to reach me **surak504@gmail.com**
 
-- 📄 Know about my experiences [https://localhost:404](https://localhost:404)
+- 📄 Know about my experiences [https://localhost:404](https://localhost:404) _under_progress_
 
 - ⚡ Fun fact **I'm 10 on pH scale**
 
