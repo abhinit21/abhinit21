@@ -42,13 +42,13 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/abhinit21](https://github.com/abhinit21)
 
-- 📝 I write articles on [https://localhost:404](https://localhost:404) _under_progress_
+- 📝 I write articles on [https://abhinit21.github.io/abhinit21/articles](https://abhinit21.github.io/abhinit21/articles) _under_progress_
 
 - 💬 Ask me about **ML, Python, Problem Solving**
 
 - 📫 How to reach me **surak504@gmail.com**
 
-- 📄 Know about my experiences [https://localhost:404](https://localhost:404) _under_progress_
+- 📄 Know about my experiences [https://abhinit21.github.io/abhinit21/experience](https://abhinit21.github.io/abhinit21/experience) _under_progress_
 
 - ⚡ Fun fact **I'm 10 on pH scale** cuz I'm basic
 
