@@ -59,7 +59,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhinit21&repo=abhinit21&theme=onedark" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhinit21&repo=face-mask-classify&theme=onedark" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhinit21&repo=eShop-capstone&theme=onedark" />
 </div>
 
