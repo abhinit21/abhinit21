@@ -7,7 +7,7 @@
   <tr>
     <td>
       <a href="https://leetcode.com/abhinit21/" >
-         <img alt="click here" height="400em" src="https://leetcard.jacoblin.cool/abhinit21?ext=heatmap" />
+         <img alt="click here" src="https://leetcard.jacoblin.cool/abhinit21?ext=heatmap" />
       </a>
     </td>
     <td align="center">
