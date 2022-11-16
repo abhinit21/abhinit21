@@ -120,7 +120,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/abhinit21/abhinit21/blob/output/snake.svg" alt="Snake animation" />
+  <img alt="Snake animation" src="https://github.com/abhinit21/abhinit21/blob/output/snake.svg" />
 </div>
 
 ###
