@@ -18,10 +18,10 @@
     </td>
     <td align="center">
       <table>
-        <tr align="center"><td><img height="35" src="https://profile-counter.glitch.me/abhinit21/count.svg?" /></td></tr>
+        <tr align="center"><td><img height="30" src="https://profile-counter.glitch.me/abhinit21/count.svg?" /></td></tr>
         <tr><td>
           <a href="https://stackoverflow.com/users/13334778/abhinit21" >
-            <img width="260em" src="https://github-readme-stackoverflow.vercel.app/?userID=13334778&theme=dark" />
+            <img width="240em" src="https://github-readme-stackoverflow.vercel.app/?userID=13334778&theme=dark" />
           </a>
         </td></tr>
       </table>
