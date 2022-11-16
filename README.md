@@ -1,21 +1,27 @@
 ###
 
-<h1>
-  Hi <img src="https://raw.githubusercontent.com/abhinit21/abhinit21/main/emojis/wave.gif" width="30" height="30" /> I'm Sura Karthikeya
-</h1>
 <table align="center">
   <tr>
-    <td>
-      <a href="https://leetcode.com/abhinit21/" >
-         <img alt="click here" src="https://leetcard.jacoblin.cool/abhinit21?ext=heatmap" />
-      </a>
+    <td align="center">
+      <table>
+        <tr align="center"><td>
+          <h1>
+            Hi <img src="https://raw.githubusercontent.com/abhinit21/abhinit21/main/emojis/wave.gif" width="30" height="30" /> I'm Sura Karthikeya
+          </h1>
+        </td></tr>
+        <tr><td>
+          <a href="https://leetcode.com/abhinit21/" >
+             <img alt="click here" src="https://leetcard.jacoblin.cool/abhinit21?ext=heatmap" />
+          </a>
+        </td></tr>
+      </table>
     </td>
     <td align="center">
       <table>
-        <tr align="center"><td><img height="30" src="https://profile-counter.glitch.me/abhinit21/count.svg?" /></td></tr>
+        <tr align="center"><td><img height="35" src="https://profile-counter.glitch.me/abhinit21/count.svg?" /></td></tr>
         <tr><td>
           <a href="https://stackoverflow.com/users/13334778/abhinit21" >
-            <img width="240em" src="https://github-readme-stackoverflow.vercel.app/?userID=13334778&theme=dark" />
+            <img width="260em" src="https://github-readme-stackoverflow.vercel.app/?userID=13334778&theme=dark" />
           </a>
         </td></tr>
       </table>
