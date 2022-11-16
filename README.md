@@ -1,11 +1,16 @@
 ###
 
+<h1>
+  Hi <img src="https://raw.githubusercontent.com/abhinit21/abhinit21/main/emojis/wave.gif" width="30" height="30" /> I'm Sura Karthikeya
+</h1>
 <table align="center">
   <tr>
+    <td>
+      <a href="https://leetcode.com/abhinit21/" >
+         <img alt="click here" height="400em" src="https://leetcard.jacoblin.cool/abhinit21?ext=heatmap" />
+      </a>
+    </td>
     <td align="center">
-      <h1>
-        Hi <img src="https://raw.githubusercontent.com/abhinit21/abhinit21/main/emojis/wave.gif" width="30" height="30" /> I'm Sura Karthikeya
-      </h1>
       <table>
         <tr align="center"><td><img height="30" src="https://profile-counter.glitch.me/abhinit21/count.svg?" /></td></tr>
         <tr><td>
@@ -14,11 +19,6 @@
           </a>
         </td></tr>
       </table>
-    </td>
-    <td>
-      <a href="https://leetcode.com/abhinit21/" >
-         <img alt="click here" src="https://leetcard.jacoblin.cool/abhinit21?ext=heatmap" />
-      </a>
     </td>
   </tr>
 </table>
