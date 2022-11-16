@@ -9,7 +9,7 @@
       <table>
         <tr align="center"><td><img height="30" src="https://profile-counter.glitch.me/abhinit21/count.svg?" /></td></tr>
         <tr><td><a href="https://leetcode.com/abhinit21/" >
-          <img alt="click here" height="200em" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=abhinit21&theme=dark" />
+          <img alt="click here" height="200em" src="https://leetcard.jacoblin.cool/abhinit21?ext=heatmap" />
         </a></td></tr>
       </table>
     </td>
