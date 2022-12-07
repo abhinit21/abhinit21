@@ -178,7 +178,7 @@
 <div>
   <img
     alt="abhinit21"
-    src="https://activity-graph.herokuapp.com/graph?username=abhinit21&theme=github" />
+    src="https://github-readme-activity-graph.cyclic.app/graph?username=abhinit21&theme=github" />
 </div>
 
 ###
