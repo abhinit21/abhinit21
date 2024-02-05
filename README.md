@@ -80,7 +80,7 @@
 -->
 
 ###
-
+<!--
 <h1 align="left">
     💻 Tools and Technology
 </h1>
@@ -88,7 +88,7 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=all&theme=dark">
 </div>
-
+-->
 ###
 
 <h1 align="left">
